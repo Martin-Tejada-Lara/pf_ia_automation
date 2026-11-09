@@ -166,11 +166,11 @@ Se incluyen los diagramas visuales de ambos workflows para facilitar la comprens
 
 ### Workflow principal
 
-Archivo: `Diagrama_Workflow_Principal.pdf`
+Adjuntado en archivos como captura de pantalla
 
 ### Workflow de gestión de errores
 
-Archivo: `Diagrama_Workflow_Gestion_Errores.pdf`
+Adjuntado en archivos como captura de pantalla
 
 Los archivos editables originales también se encuentran disponibles en el repositorio.
 
@@ -184,20 +184,10 @@ Ecosistema-Automatizacion-IA/
 ├── README.md
 │
 ├── diagramas/
-│   ├── Diagrama_Workflow_Principal.pdf
-│   ├── Diagrama_Workflow_Gestion_Errores.pdf
-│   ├── Diagrama_Workflow_Principal.drawio
-│   └── Diagrama_Workflow_Gestion_Errores.drawio
-│
-├── workflows/
-│   ├── workflow_principal.json
-│   └── workflow_errores.json
-│
-├── evidencias/
-│   ├── workflow_principal.png
-│   ├── clasificacion_ia.png
-│   ├── notion_tickets.png
-│   └── aprobacion_hitl.png
+│   ├── Captura de pantalla workflow secundario
+│   ├──Captura de pantalla workflow principal
+│   ├──README.md
+│   └── Workflow principal
 │
 └── video/
     └── demo_proyecto.mp4
@@ -207,15 +197,12 @@ Ecosistema-Automatizacion-IA/
 
 **Base de datos de Notion:**
 
-[Agregar aquí el enlace de lectura de Notion]
+PRINCIPAL: https://app.notion.com/p/412f7b65cd63809b9bc8caf0cf549d7e?v=412f7b65cd63804e8003000ca81a061e&source=copy_link
+MANEJO DE ERRORES: https://app.notion.com/p/413f7b65cd638036a2e4c8ff96b50cb3?v=413f7b65cd6380d88eb8000c8cccfd26&source=copy_link
 
 **Video demostrativo:**
 
 [Agregar aquí el enlace al video de demostración]
-
-**Repositorio del proyecto:**
-
-[Agregar aquí el enlace al repositorio de GitHub]
 
 ## 11. Consideraciones finales
 
@@ -227,6 +214,5 @@ También permitió trabajar con estructuras JSON, expresiones dinámicas, proces
 
 La solución constituye un prototipo funcional y una base para futuras mejoras, como la validación de la activación automática del workflow de errores, la incorporación de mecanismos de rechazo en el proceso de aprobación y el fortalecimiento de los controles de seguridad.
 
----
 
 **Proyecto desarrollado como entrega final del curso de Automatización e Inteligencia Artificial.**
